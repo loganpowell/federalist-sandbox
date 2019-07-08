@@ -31,7 +31,8 @@ var Schedule = function Schedule(props) {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a, {
     style: {
-      padding: 20
+      padding: 20,
+      fontFamily: "Merriweather"
     },
     __source: {
       fileName: _jsxFileName,
@@ -39,27 +40,35 @@ var Schedule = function Schedule(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+    color: "green",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
-  }, "Create a services site 2015-09-01"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+  }, "November 22, 2010: 2010 Redistricting TIGER/Line Shapefiles begins"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+    color: "red",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
-  }, "Solve initial network problems 2015-09-01"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+  }, "January 30, 2011: 2010 Redistricting TIGER/Line Shapefiles ends"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
     __self: this
-  }, "Technical testing 2015-09-01"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+  }, "February 2, 2011: P.L. 94-171 Redistricting Data Summary Files begins"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
+    },
+    __self: this
+  }, "February 2, 2011: P.L. 94-171 Redistricting Data Summary Files begins"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(antd_lib_timeline__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
     },
     __self: this
   }, "Network problems being solved 2015-09-01")));
@@ -70,4 +79,4 @@ var Schedule = function Schedule(props) {
 /***/ })
 
 })
-//# sourceMappingURL=Timeline.js.775ba7f24a3a01f0fd85.hot-update.js.map
+//# sourceMappingURL=Timeline.js.c21365222c3ae99a7d3d.hot-update.js.map
