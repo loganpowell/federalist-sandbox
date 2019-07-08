@@ -1,7 +1,7 @@
 {
-  "name": "next-antd-starter",
+  "name": "federalist-sandbox",
   "version": "1.0.0",
-  "description": "A starter for next.js that adds support for AntD modular component imports and customization of styles. Also, it contains a special wrapper component, which allows query params from URL to be recieved even when deploying on Github Pages/static site",
+  "description": "Something will be happening here, you'll see...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,23 +10,26 @@
     "start": "next start",
     "export": "next export"
   },
-  "keywords": ["antd", "nextjs", "starter"],
+  "keywords": [
+    "federalist",
+    "sandbox"
+  ],
   "author": "Logan Powell",
   "dependencies": {
-    "@zeit/next-less": "^1.0.1",
     "antd": "^3.5.4",
-    "babel-plugin-dotenv": "^0.1.1",
     "isomorphic-unfetch": "^3.0.0",
     "less": "3.0.4",
     "less-vars-to-js": "1.3.0",
     "next": "latest",
     "null-loader": "2.0.0",
+    "query-string": "^6.8.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
   "license": "MIT",
   "devDependencies": {
-    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
+    "babel-plugin-dotenv": "^0.1.1",
     "babel-plugin-import": "^1.12.0"
   }
 }
